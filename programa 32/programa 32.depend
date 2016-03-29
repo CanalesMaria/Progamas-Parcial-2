@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1457477041 source:c:\users\lpaz\desktop\progra\programa 32\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
